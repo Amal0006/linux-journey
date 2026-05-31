@@ -1,0 +1,5 @@
+AWS is clod platform
+Linux is a Operating System
+Pyhtin is a programming language
+AWS Lambda is a serverless service
+Git is a version control tool
