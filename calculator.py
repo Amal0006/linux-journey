@@ -1,8 +1,17 @@
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+operator = input("Enter operator (+, -, *, /): ")
 
-num1=float(input("first num? "))
-num2=float(input("second num? "))
-
-print("Addition ",num1+num2)
-print("subtraction ",num1-num2)
-print("Multiplication ",num1*num2)
-print("Divisio ",num1/num2)
+if operator == "+":
+    print("Result:", num1 + num2)
+elif operator == "-":
+    print("Result:", num1 - num2)
+elif operator == "*":
+    print("Result:", num1 * num2)
+elif operator == "/":
+    if num2 == 0:
+        print("Error: Cannot divide by zero")
+    else:
+        print("Result:", num1 / num2)
+else:
+    print("Invalid operator")
