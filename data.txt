@@ -1,0 +1,4 @@
+Name: Amal
+Course: CSE
+Goal: Cloud Engineer
+Status: learnong Python
