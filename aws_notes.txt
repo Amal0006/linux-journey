@@ -1,0 +1,1 @@
+Day 2 AWS Launched FIrst EC2 Instance (t2.micro), Amazon Linux, Stopped after confirming running state
