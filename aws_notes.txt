@@ -1,3 +1,4 @@
 Day 2 AWS Launched FIrst EC2 Instance (t2.micro), Amazon Linux, Stopped after confirming running state
 Day 3 - AWS - S3 storage classes, IAM user created (amal-admin), learned least privilege principle
 Day 3 bonus - created restricted IAM user amal-s3-only with S3 read-only access, tested EC2 access denial, confirmed least privilege principle works
+Day 4 AWS - VPC, subnets (public/private), security groups vs NACL, stateful vs stateless, explored real VPC and found SSH security group rule
